@@ -4,4 +4,4 @@ Numerical analysis of (microbial) ecological interactions
 
 # Documentation
 
-[Documentation and examples]:(http://mi-sim.github.io//)
+[Documentation and examples](http://mi-sim.github.io//)
