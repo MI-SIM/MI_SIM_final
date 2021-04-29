@@ -158,7 +158,7 @@ switch handles.simtype
                     for j=1:numel(a)
                         % Loop over how many component
                         b=children(a(j));
-                        doub_sol(i,j)=double(b(2));
+                        doub_sol(i,j)=double(b{2});
                     end
                 end
             end
