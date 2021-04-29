@@ -22,11 +22,7 @@ function varargout = MI_SIM(varargin)
 
 % Edit the above text to modify the response to help MI_SIM
 
-<<<<<<< .merge_file_0nYvVR
-% Last Modified by GUIDE v2.5 25-Jan-2017 10:45:45
-=======
 % Last Modified by GUIDE v2.5 24-Jan-2017 11:38:08
->>>>>>> .merge_file_bK9Hlf
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
